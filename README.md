@@ -1,9 +1,10 @@
 # Google Next 2019 Talks (Videos)
 A curated list of relevant talks at the Google Next 2019 conference I attended in San Francisco’s Moscone Center. The list mainly reflects my interest in their latest Big Data, Severless and ML product offerings.
 
-----
 
-### Severless Compute / Microservices
+
+## Severless Compute / Microservices
+----
 DevOps in a Serverless World
 https://youtu.be/G_OeE92R29U
 
@@ -92,8 +93,9 @@ APIs, Microservices, and the Service Mesh
 https://youtu.be/IblDMVwSSk4
 
 
-### Machine Learning
 
+## Machine Learning
+----
 BigQuery ML: What's New, and an Exploration With Booking.com on Using it to Assess Data Quality
 https://youtu.be/DnlG4frLKmw
 
@@ -177,8 +179,8 @@ https://youtu.be/Ag7f3lnVH9Y
 
 
 
-### Big Query
-
+## Big Query
+----
 Modern Data Warehousing with BigQuery
 https://youtu.be/eOQ3YJKgvHE
 
@@ -216,7 +218,9 @@ Advances in Stream Analytics
 https://youtu.be/YW2yK5V5L5k
 
 
-### Marketing / Advertising
+
+## Marketing / Advertising
+----
 Insight to Action With Deloitte: Driving ROI With Marketing Analytics
 https://youtu.be/Gv9X-QpCke8
 
@@ -224,7 +228,8 @@ Better Together: Deliver Great Customer Experiences with Cloud and Ads Products
 https://youtu.be/x2vmm-JFUTY
 
 
-### Mobile Development
 
+## Mobile Development
+----
 Web Vs. Native Mobile Apps: How to Choose the Right Approach
 https://youtu.be/RHu1QbPvrqU
